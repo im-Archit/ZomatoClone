@@ -6,7 +6,7 @@ A simple HTML and CSS project that replicates some features of the Zomato platfo
 
 ## Demo
 
-You can see a live demo of the Zomato Clone Webpage (https://ambitious29.github.io/ZomatoClone/).
+You can see a live demo of the Zomato Clone Webpage ((https://im-archit.github.io/ZomatoClone/)).
 
 ## Features
 
