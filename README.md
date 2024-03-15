@@ -4,7 +4,7 @@
 A simple HTML and CSS project that replicates some features of the Zomato platform, allowing users to explore restaurants and their menus. This project is a part of my initial learnings of WebDev.
 
 
-## Demo
+## Demo 
 
 You can see a live demo of the Zomato Clone Webpage (https://im-archit.github.io/ZomatoClone/).
 
